@@ -10,7 +10,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 import useMenuActive from "@/hooks/useMenuActive";
 import { navLinks } from "@/constants";
 import Link from "next/link";
-import Route from "../ui/route";
+import Route from "../ui/Route";
 const Footer = () => {
   return (
     <div className="w-full py-5 bg-tertiary mt-10">

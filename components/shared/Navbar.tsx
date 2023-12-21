@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import Button from "../ui/Button";
-import Route from "../ui/route";
+import Route from "../ui/Route";                  
 import { navLinks } from "@/constants";
 import MobileMenu from "./MobileMenu";
 import useMenuActive from "@/hooks/useMenuActive";

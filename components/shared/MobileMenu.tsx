@@ -10,7 +10,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 import Button from "../ui/Button";
 import { navLinks } from "@/constants";
 import Link from "next/link";
-import Route from "../ui/route";
+import Route from "../ui/Route";
 import useMenuActive from "@/hooks/useMenuActive";
 import { User } from "@prisma/client";
 import { signOut } from "next-auth/react";

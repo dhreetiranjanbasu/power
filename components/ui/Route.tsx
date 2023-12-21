@@ -11,7 +11,7 @@ interface routeProps{
 }
 
 
-const Route = ({route,label,isActive,onClick}: routeProps) => {
+const route = ({route,label,isActive,onClick}: routeProps) => {
   return (
     <div>
         <Link 
@@ -25,4 +25,4 @@ const Route = ({route,label,isActive,onClick}: routeProps) => {
   )
 }
 
-export default Route
+export default route

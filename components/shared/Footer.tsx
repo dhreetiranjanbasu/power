@@ -48,7 +48,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="w-full text-center mt-3 text-sm text-white " >
-              <span>All Right Reserved ExploreDX.com</span>
+              <span>All Right Reserved Orientpower.com</span>
             </div>
         </div>
     </div>
